@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://bursa:bursa@cluster0.3x2lg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "jwtSecret": "mysecrettokken"
+  }
